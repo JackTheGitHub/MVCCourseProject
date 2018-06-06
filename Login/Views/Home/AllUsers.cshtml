@@ -1,0 +1,40 @@
+﻿@using Login.Models
+@model LoginViewModel
+
+
+@{
+    ViewBag.Title = "AllUsers";
+}
+
+<table class="table table-striped">
+
+
+    <thead>
+
+        <tr>
+            <th>Username</th>
+            <th>Password</th>
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+
+        @foreach (LoginsViewModel user in Model.loginList)
+    {
+        <tr>
+
+            <td>@user.Username</td>
+            <td>@user.Password</td>
+
+        </tr>
+}
+
+
+    </tbody>
+
+</table>
+
+<h2>AllUsers</h2>
+

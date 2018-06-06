@@ -1,0 +1,96 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\Login.dll.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\Login.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\Login.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\DataAccess.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\EntityFramework.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\EntityFramework.SqlServer.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\Microsoft.Web.Infrastructure.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\Repositories.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Helpers.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Mvc.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Razor.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Webpages.Deployment.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Webpages.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Webpages.Razor.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\DataAccess.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\DataAccess.dll.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\Repositories.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\Repositories.dll.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\EntityFramework.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\EntityFramework.SqlServer.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Razor.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Webpages.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Webpages.Deployment.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Webpages.Razor.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Helpers.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\bin\System.Web.Mvc.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\obj\Debug\Login.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Login\obj\Debug\Login.pdb
+I:\Programing\C# Projects\Login\Login\bin\Login.dll.config
+I:\Programing\C# Projects\Login\Login\bin\Login.dll
+I:\Programing\C# Projects\Login\Login\bin\Login.pdb
+I:\Programing\C# Projects\Login\Login\bin\DataAccess.dll
+I:\Programing\C# Projects\Login\Login\bin\EntityFramework.dll
+I:\Programing\C# Projects\Login\Login\bin\EntityFramework.SqlServer.dll
+I:\Programing\C# Projects\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Programing\C# Projects\Login\Login\bin\Microsoft.Web.Infrastructure.dll
+I:\Programing\C# Projects\Login\Login\bin\Repositories.dll
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Helpers.dll
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Mvc.dll
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Razor.dll
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Webpages.Deployment.dll
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Webpages.dll
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Webpages.Razor.dll
+I:\Programing\C# Projects\Login\Login\bin\DataAccess.pdb
+I:\Programing\C# Projects\Login\Login\bin\DataAccess.dll.config
+I:\Programing\C# Projects\Login\Login\bin\Repositories.pdb
+I:\Programing\C# Projects\Login\Login\bin\Repositories.dll.config
+I:\Programing\C# Projects\Login\Login\bin\EntityFramework.xml
+I:\Programing\C# Projects\Login\Login\bin\EntityFramework.SqlServer.xml
+I:\Programing\C# Projects\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Razor.xml
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Webpages.xml
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Webpages.Deployment.xml
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Webpages.Razor.xml
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Helpers.xml
+I:\Programing\C# Projects\Login\Login\bin\System.Web.Mvc.xml
+I:\Programing\C# Projects\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\Login\Login\obj\Debug\Login.dll
+I:\Programing\C# Projects\Login\Login\obj\Debug\Login.pdb
+C:\Users\Konstantin\Desktop\Login\Login\bin\Login.dll.config
+C:\Users\Konstantin\Desktop\Login\Login\bin\Login.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\Login.pdb
+C:\Users\Konstantin\Desktop\Login\Login\bin\DataAccess.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\EntityFramework.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\EntityFramework.SqlServer.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\Repositories.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Helpers.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Mvc.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Razor.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Webpages.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Webpages.Razor.dll
+C:\Users\Konstantin\Desktop\Login\Login\bin\DataAccess.pdb
+C:\Users\Konstantin\Desktop\Login\Login\bin\DataAccess.dll.config
+C:\Users\Konstantin\Desktop\Login\Login\bin\Repositories.pdb
+C:\Users\Konstantin\Desktop\Login\Login\bin\Repositories.dll.config
+C:\Users\Konstantin\Desktop\Login\Login\bin\EntityFramework.xml
+C:\Users\Konstantin\Desktop\Login\Login\bin\EntityFramework.SqlServer.xml
+C:\Users\Konstantin\Desktop\Login\Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Razor.xml
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Webpages.xml
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Webpages.Razor.xml
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Helpers.xml
+C:\Users\Konstantin\Desktop\Login\Login\bin\System.Web.Mvc.xml
+C:\Users\Konstantin\Desktop\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Konstantin\Desktop\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Login\Login\obj\Debug\Login.dll
+C:\Users\Konstantin\Desktop\Login\Login\obj\Debug\Login.pdb
