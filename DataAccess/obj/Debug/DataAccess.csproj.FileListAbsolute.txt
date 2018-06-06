@@ -1,0 +1,11 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\bin\Debug\DataAccess.dll.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\bin\Debug\DataAccess.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\bin\Debug\DataAccess.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\bin\Debug\EntityFramework.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\bin\Debug\EntityFramework.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\obj\Debug\DataAccess.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\obj\Debug\DataAccess.pdb

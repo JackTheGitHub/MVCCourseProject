@@ -1,0 +1,14 @@
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\bin\Debug\Repositories.dll.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\bin\Debug\Repositories.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\bin\Debug\Repositories.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\bin\Debug\DataAccess.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\bin\Debug\EntityFramework.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\bin\Debug\DataAccess.pdb
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\bin\Debug\DataAccess.dll.config
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\bin\Debug\EntityFramework.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\obj\Debug\Repositories.dll
+I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\obj\Debug\Repositories.pdb

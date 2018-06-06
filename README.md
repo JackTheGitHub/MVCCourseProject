@@ -1,2 +1,2 @@
 # MVCCourseProject
-Kostantin Kirilov's MVC Project
+Konstantin Kirilov's MVC Project
