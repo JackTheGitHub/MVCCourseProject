@@ -50,55 +50,56 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Anime.cs">
-      <DependentUpon>LoginModel.tt</DependentUpon>
+      <DependentUpon>AnimeModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="LoginModel.Context.cs">
+    <Compile Include="AnimeModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>LoginModel.Context.tt</DependentUpon>
+      <DependentUpon>AnimeModel.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="LoginModel.cs">
+    <Compile Include="AnimeModel.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>LoginModel.tt</DependentUpon>
+      <DependentUpon>AnimeModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="LoginModel.Designer.cs">
+    <Compile Include="AnimeModel.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>LoginModel.edmx</DependentUpon>
+      <DependentUpon>AnimeModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Category.cs">
+      <DependentUpon>AnimeModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs">
-      <DependentUpon>LoginModel.tt</DependentUpon>
+      <DependentUpon>AnimeModel.tt</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EntityDeploy Include="LoginModel.edmx">
+    <EntityDeploy Include="AnimeModel.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>LoginModel.Designer.cs</LastGenOutput>
+      <LastGenOutput>AnimeModel.Designer.cs</LastGenOutput>
     </EntityDeploy>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.Config" />
-    <None Include="LoginModel.edmx.diagram">
-      <DependentUpon>LoginModel.edmx</DependentUpon>
+    <None Include="AnimeModel.edmx.diagram">
+      <DependentUpon>AnimeModel.edmx</DependentUpon>
     </None>
+    <None Include="App.Config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="LoginModel.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>LoginModel.Context.cs</LastGenOutput>
-      <DependentUpon>LoginModel.edmx</DependentUpon>
-    </Content>
-    <Content Include="LoginModel.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>LoginModel.edmx</DependentUpon>
-      <LastGenOutput>LoginModel.cs</LastGenOutput>
-    </Content>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Content Include="AnimeModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>AnimeModel.edmx</DependentUpon>
+      <LastGenOutput>AnimeModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="AnimeModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>AnimeModel.edmx</DependentUpon>
+      <LastGenOutput>AnimeModel.cs</LastGenOutput>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

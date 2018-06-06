@@ -12,3 +12,17 @@ I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\obj\Debug\Rep
 I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
 I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\obj\Debug\Repositories.dll
 I:\Programing\C# Projects\C# Exercises\1.Basics\Login\Repositories\obj\Debug\Repositories.pdb
+C:\Users\Konstantin\Desktop\Login\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\Konstantin\Desktop\Login\Repositories\bin\Debug\Repositories.dll
+C:\Users\Konstantin\Desktop\Login\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Konstantin\Desktop\Login\Repositories\bin\Debug\DataAccess.dll
+C:\Users\Konstantin\Desktop\Login\Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Konstantin\Desktop\Login\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Konstantin\Desktop\Login\Repositories\bin\Debug\DataAccess.pdb
+C:\Users\Konstantin\Desktop\Login\Repositories\bin\Debug\DataAccess.dll.config
+C:\Users\Konstantin\Desktop\Login\Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Konstantin\Desktop\Login\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Konstantin\Desktop\Login\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Konstantin\Desktop\Login\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Login\Repositories\obj\Debug\Repositories.dll
+C:\Users\Konstantin\Desktop\Login\Repositories\obj\Debug\Repositories.pdb

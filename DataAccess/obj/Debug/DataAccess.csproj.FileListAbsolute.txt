@@ -9,3 +9,14 @@ I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\obj\Debug\DataA
 I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
 I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\obj\Debug\DataAccess.dll
 I:\Programing\C# Projects\C# Exercises\1.Basics\Login\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Konstantin\Desktop\Login\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Konstantin\Desktop\Login\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Konstantin\Desktop\Login\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Konstantin\Desktop\Login\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Konstantin\Desktop\Login\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Konstantin\Desktop\Login\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Konstantin\Desktop\Login\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Konstantin\Desktop\Login\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Konstantin\Desktop\Login\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Login\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Konstantin\Desktop\Login\DataAccess\obj\Debug\DataAccess.pdb

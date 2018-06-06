@@ -11,11 +11,11 @@ namespace Repositories
     public abstract class BaseRepository<T> : IBaseRepository<T>
         where T : class
     {
-        private LoginDBEntities Context;
+        private AnimeDBEntities Context;
 
         public BaseRepository()
         {
-            Context = new LoginDBEntities();
+            Context = new AnimeDBEntities();
         }
 
         public List<T> GetAll()

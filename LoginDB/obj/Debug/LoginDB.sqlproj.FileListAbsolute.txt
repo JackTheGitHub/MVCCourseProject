@@ -1,9 +1,0 @@
-I:\Programing\C# Projects\C# Exercises\1.Basics\Login\LoginDB\bin\Debug\LoginDB.dacpac
-I:\Programing\C# Projects\C# Exercises\1.Basics\Login\LoginDB\bin\Debug\LoginDB.dll
-I:\Programing\C# Projects\C# Exercises\1.Basics\Login\LoginDB\bin\Debug\LoginDB.pdb
-I:\Programing\C# Projects\C# Exercises\1.Basics\Login\LoginDB\obj\Debug\LoginDB.dll
-I:\Programing\C# Projects\C# Exercises\1.Basics\Login\LoginDB\obj\Debug\LoginDB.pdb
-I:\Programing\C# Projects\C# Exercises\1.Basics\Login\LoginDB\obj\Debug\Model.xml
-I:\Programing\C# Projects\C# Exercises\1.Basics\Login\LoginDB\obj\Debug\refactor.xml
-I:\Programing\C# Projects\C# Exercises\1.Basics\Login\LoginDB\obj\Debug\postdeploy.sql
-I:\Programing\C# Projects\C# Exercises\1.Basics\Login\LoginDB\obj\Debug\predeploy.sql

@@ -12,13 +12,18 @@ namespace DataAccess
     using System;
     using System.Collections.Generic;
     
-    public partial class Anime
+    public partial class Category
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public Category()
+        {
+            this.Animes = new HashSet<Anime>();
+        }
+    
         public int ID { get; set; }
         public string Name { get; set; }
-        public int Category { get; set; }
-        public int Rating { get; set; }
     
-        public virtual Category AnimeCategory { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Anime> Animes { get; set; }
     }
 }
