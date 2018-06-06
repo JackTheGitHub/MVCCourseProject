@@ -5,17 +5,44 @@ using System.Data.Entity;
 using System.Text;
 using System.Threading.Tasks;
 using DataAccess;
+using Repositories.Helpers;
 
 namespace Repositories
 {
     public class UserRepository : BaseRepository<User>
     {
 
-        public User GetUserByUsername(string username)
+        public User GetUserByNameAndPassword(string username, string password)
         {
+            User user = base.DBSet.FirstOrDefault(u => u.Username == username);
+            if (user != null)
+            {
+                PasswordManager passManager = new PasswordManager();
+                bool isValidPassoword = passManager.IsPasswordMatch(password, user.PasswordHash, user.PasswordSalt);
+                if (isValidPassoword == false)
+                {
+                    user = null;
+                }
+            }
+            return user;
+        }
 
-            return GetAll().Where(u => u.Username == username).FirstOrDefault();
+        public void RegisterUser(User user, string password)
+        {
+            string salt, hash;
+            PasswordManager passManager = new PasswordManager();
+            hash = passManager.GeneratePasswordHash(password, out salt);
 
+            user.PasswordHash = hash;
+            user.PasswordSalt = salt;
+
+            base.Create(user);
+        }
+
+        public User GetUserByName(string username)
+        {
+            User user = base.DBSet.FirstOrDefault(u => u.Username == username);
+            return user;
         }
 
         public override void Save(User user)

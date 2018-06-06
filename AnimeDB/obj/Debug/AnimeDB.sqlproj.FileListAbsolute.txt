@@ -1,0 +1,5 @@
+C:\Users\Konstantin\Desktop\Login\AnimeDB\bin\Debug\AnimeDB.dacpac
+C:\Users\Konstantin\Desktop\Login\AnimeDB\bin\Debug\LoginDB.dll
+C:\Users\Konstantin\Desktop\Login\AnimeDB\bin\Debug\LoginDB.pdb
+C:\Users\Konstantin\Desktop\Login\AnimeDB\obj\Debug\LoginDB.dll
+C:\Users\Konstantin\Desktop\Login\AnimeDB\obj\Debug\LoginDB.pdb

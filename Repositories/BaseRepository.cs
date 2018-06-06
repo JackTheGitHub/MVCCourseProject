@@ -13,6 +13,14 @@ namespace Repositories
     {
         private AnimeDBEntities Context;
 
+        protected DbSet<T> DBSet
+        {
+            get
+            {
+                return Context.Set<T>();
+            }
+        }
+
         public BaseRepository()
         {
             Context = new AnimeDBEntities();

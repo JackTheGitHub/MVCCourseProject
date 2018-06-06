@@ -22,7 +22,8 @@
     </Key>
     <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="Username" Type="nvarchar" MaxLength="200" Nullable="false" />
-    <Property Name="Password" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="PasswordHash" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="PasswordSalt" Type="nvarchar" MaxLength="200" Nullable="false" />
   </EntityType>
   <Association Name="FK_Anime_Category">
     <End Role="Category" Type="Self.Category" Multiplicity="1" />
