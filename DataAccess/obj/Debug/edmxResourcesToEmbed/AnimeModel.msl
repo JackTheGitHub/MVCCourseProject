@@ -1,16 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
   <EntityContainerMapping StorageEntityContainer="AnimeDBModelStoreContainer" CdmEntityContainer="AnimeDBEntities">
-    <EntitySetMapping Name="Animes">
-      <EntityTypeMapping TypeName="AnimeDBModel.Anime">
-        <MappingFragment StoreEntitySet="Anime">
-          <ScalarProperty Name="ID" ColumnName="ID" />
-          <ScalarProperty Name="Name" ColumnName="Name" />
-          <ScalarProperty Name="Category" ColumnName="Category" />
-          <ScalarProperty Name="Rating" ColumnName="Rating" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
     <EntitySetMapping Name="Categories">
       <EntityTypeMapping TypeName="AnimeDBModel.Category">
         <MappingFragment StoreEntitySet="Category">
@@ -25,6 +15,16 @@
           <ScalarProperty Name="PasswordSalt" ColumnName="PasswordSalt" />
           <ScalarProperty Name="PasswordHash" ColumnName="PasswordHash" />
           <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Animes">
+      <EntityTypeMapping TypeName="AnimeDBModel.Anime">
+        <MappingFragment StoreEntitySet="Anime">
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
           <ScalarProperty Name="ID" ColumnName="ID" />
         </MappingFragment>
       </EntityTypeMapping>

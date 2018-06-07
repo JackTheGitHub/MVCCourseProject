@@ -5,10 +5,10 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="fcd73d5f7f384004a3aa17edde991d07" Name="Diagram1">
-        <EntityTypeShape EntityType="AnimeDBModel.Anime" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
         <EntityTypeShape EntityType="AnimeDBModel.Category" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
-        <AssociationConnector Association="AnimeDBModel.FK_Anime_Category" ManuallyRouted="false" />
         <EntityTypeShape EntityType="AnimeDBModel.User" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="AnimeDBModel.Anime" Width="1.5" PointX="3" PointY="0.875" />
+        <AssociationConnector Association="AnimeDBModel.FK_Anime_Category" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

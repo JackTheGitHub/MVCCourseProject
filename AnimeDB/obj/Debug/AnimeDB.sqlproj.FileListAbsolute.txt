@@ -3,3 +3,7 @@ C:\Users\Konstantin\Desktop\Login\AnimeDB\bin\Debug\LoginDB.dll
 C:\Users\Konstantin\Desktop\Login\AnimeDB\bin\Debug\LoginDB.pdb
 C:\Users\Konstantin\Desktop\Login\AnimeDB\obj\Debug\LoginDB.dll
 C:\Users\Konstantin\Desktop\Login\AnimeDB\obj\Debug\LoginDB.pdb
+C:\Users\Konstantin\Desktop\Login\AnimeDB\obj\Debug\Model.xml
+C:\Users\Konstantin\Desktop\Login\AnimeDB\obj\Debug\refactor.xml
+C:\Users\Konstantin\Desktop\Login\AnimeDB\obj\Debug\postdeploy.sql
+C:\Users\Konstantin\Desktop\Login\AnimeDB\obj\Debug\predeploy.sql

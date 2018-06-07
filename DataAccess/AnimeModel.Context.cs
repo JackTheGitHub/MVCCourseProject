@@ -25,8 +25,8 @@ namespace DataAccess
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Anime> Animes { get; set; }
         public virtual DbSet<Category> Categories { get; set; }
         public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<Anime> Animes { get; set; }
     }
 }

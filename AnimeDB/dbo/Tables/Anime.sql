@@ -4,8 +4,10 @@
     [Category] INT            NOT NULL,
     [Rating]   INT            NOT NULL,
     CONSTRAINT [PK_Anime] PRIMARY KEY CLUSTERED ([ID] ASC),
-    CONSTRAINT [FK_Anime_Category] FOREIGN KEY ([Category]) REFERENCES [dbo].[Category] ([ID])
+    CONSTRAINT [FK_Anime_Category] FOREIGN KEY ([Category]) REFERENCES [dbo].[Category] ([ID]) ON DELETE CASCADE
 );
+
+
 
 
 

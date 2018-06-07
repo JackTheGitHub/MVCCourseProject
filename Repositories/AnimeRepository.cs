@@ -7,9 +7,10 @@ using DataAccess;
 
 namespace Repositories
 {
-    public class CategoryRepository : BaseRepository<Category>
+    public class AnimeRepository : BaseRepository<Anime>
     {
-        public override void Save(Category item)
+
+        public override void Save(Anime item)
         {
             if (item.ID == 0)
             {
@@ -20,5 +21,6 @@ namespace Repositories
                 base.Update(item, c => c.ID == item.ID);
             }
         }
+
     }
 }

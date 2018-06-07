@@ -26,7 +26,9 @@
     <Property Name="PasswordSalt" Type="nvarchar" MaxLength="200" Nullable="false" />
   </EntityType>
   <Association Name="FK_Anime_Category">
-    <End Role="Category" Type="Self.Category" Multiplicity="1" />
+    <End Role="Category" Type="Self.Category" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
     <End Role="Anime" Type="Self.Anime" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="Category">

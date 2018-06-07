@@ -23,18 +23,19 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     @if (!LoginUserSession.Current.IsAuthenticated)
-                    {
-                        <li>@Html.ActionLink("Login", "Login", "User")</li>
-                        <li>@Html.ActionLink("Register", "Register", "User")</li>
-                    }
-                    else
-                    {
-                        <li><a>Hello, @LoginUserSession.Current.Username</a> </li>
-                        <li>@Html.ActionLink("Logout", "Logout", "User")</li>
-                    }
+    {
+                <li>@Html.ActionLink("Login", "Login", "User")</li>
+                <li>@Html.ActionLink("Register", "Register", "User")</li>
+}
+else
+{
+                <li><a>Hello @LoginUserSession.Current.Username</a></li>
+                <li>@Html.ActionLink("Logout", "Logout", "User")</li>
+}
+                    <li>@Html.ActionLink("Animes", "Edit", "Anime")</li>
+                    <li>@Html.ActionLink("Categories", "Edit", "Category")</li>
 
                 </ul>
-                <b>@Session["Username"]</b>
             </div>
         </div>
     </div>
